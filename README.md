@@ -60,9 +60,9 @@ I focus on red teaming Active Directory and cloud environments, integrating AI t
 ```text
 Offense (Red Team)    | #############-- | 85%
 Detection (SOC)      | ###########---- | 78%
-Cloud Visibility     | ##########----- | 72%
+Cloud Visibility     | ##########----- | 74%
 Automation (AI)      | #########------ | 68%
-Reporting & Risk     | ########------- | 60%
+Reporting & Risk     | ########------- | 65%
 ```
 ---
 
