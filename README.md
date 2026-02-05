@@ -54,7 +54,7 @@ I focus on red teaming Active Directory and cloud environments, integrating AI t
 ---
 ## 🧠 Security Operations Matrix
 
-```text
+
 Offense (Red Team)    █████████████░░  85%
 Detection (SOC)      ███████████░░░░  78%
 Cloud Visibility     ██████████░░░░░  72%
