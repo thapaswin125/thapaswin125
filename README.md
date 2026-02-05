@@ -53,7 +53,7 @@ I focus on red teaming Active Directory and cloud environments, integrating AI t
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=thapaswin125&icon=1&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=thapaswin125&label=Visitors&color=00ff9c&style=flat)
 
 ---
 ## 🧠 Security Operations Matrix
@@ -64,7 +64,5 @@ Detection (SOC)      ███████████░░░░  78%
 Cloud Visibility     ██████████░░░░░  72%
 Automation (AI)      █████████░░░░░░  68%
 Reporting & Risk     ████████░░░░░░░  60%
-
----
 
 
