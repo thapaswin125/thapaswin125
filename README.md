@@ -52,10 +52,6 @@ I focus on red teaming Active Directory and cloud environments, integrating AI t
 ![NIST](https://img.shields.io/badge/NIST-800--53-blue?style=for-the-badge)
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=thapaswin125&label=Visitors&color=00ff9c&style=flat)
-
----
 ## 🧠 Security Operations Matrix
 
 ```text
@@ -65,4 +61,5 @@ Cloud Visibility     ██████████░░░░░  72%
 Automation (AI)      █████████░░░░░░  68%
 Reporting & Risk     ████████░░░░░░░  60%
 
-
+---
+![Profile Views](https://komarev.com/ghpvc/?username=thapaswin125&label=Visitors&color=00ff9c&style=flat)
