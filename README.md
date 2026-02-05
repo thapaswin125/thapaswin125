@@ -53,6 +53,9 @@ I focus on red teaming Active Directory and cloud environments, integrating AI t
 
 ---
 
+[![](https://visitcount.itsvg.in/api?id=thapaswin125&icon=1&color=0)](https://visitcount.itsvg.in)
+
+---
 ## 🧠 Security Operations Matrix
 
 ```text
@@ -64,4 +67,4 @@ Reporting & Risk     ████████░░░░░░░  60%
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=thapaswin125&icon=1&color=0)](https://visitcount.itsvg.in)
+
