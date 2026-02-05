@@ -1,14 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Lostsec+%3C3;Welcome+to+my+profile!" alt="Title"></img>
-  </a>
-</div>
 
-<div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FF9C&size=45&center=true&vCenter=true&width=700&lines=Hi!+I'm+Thapaswin+Reddy;Red+Team+%7C+Security+Analyst;Cloud+Security+%7C+AI+Integration" /> </a> </div>
-
+<div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FF9C&size=45&center=true&vCenter=true&width=700&lines=Hi!+I'm+Thapaswin+Reddy;Red+Team+%7C+Security+Analyst;Welcome+to+my+profile!
+                                                            
 # 💫 About Me:
 I focus on red teaming Active Directory and cloud environments, integrating AI to enhance reconnaissance, alerting, and attack automation. My work spans offensive security and cloud defense, with a strong interest in building AI-powered cybersecurity tools that improve attack efficiency and security visibility. I actively develop advanced exploitation techniques and reliable, AI-assisted red team workflows that reflect real-world threat behavior. Currently, I’m deepening my expertise in advanced Active Directory attacks, AWS cloud security, and applying AI to detection engineering and security analytics. I use AI to automate repetitive security tasks so I can focus on breaking systems ethically and efficiently 😄
 
