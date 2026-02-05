@@ -53,15 +53,14 @@ I focus on red teaming Active Directory and cloud environments, integrating AI t
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thapaswin125&theme=transparent&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=thapaswin125&theme=transparent&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thapaswin125&theme=transparent&layout=compact)
+## 🧠 Security Operations Matrix
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thapaswin125&theme=radical&margin-w=4)
+```text
+Offense (Red Team)    █████████████░░  85%
+Detection (SOC)      ███████████░░░░  78%
+Cloud Visibility     ██████████░░░░░  72%
+Automation (AI)      █████████░░░░░░  68%
+Reporting & Risk     ████████░░░░░░░  60%
 
 ---
 
