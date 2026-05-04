@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF9C&size=40&center=true&vCenter=true&width=750&lines=Hi!+I'm+Thapaswin+Reddy;Red+Team+%7C+Security+Analyst;Welcome+to+my+profile!"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF9C&size=40&center=true&vCenter=true&width=750&lines=Hi!+I'm+Thapaswin+Reddy;Blue+Team+%7C+Security+Analyst;Welcome+to+my+profile!"
       alt="Typing SVG"
     />
   </a>
@@ -13,7 +13,7 @@
 
 # 💫 About Me
 
-I focus on red teaming Active Directory and cloud environments, integrating AI to enhance reconnaissance, alerting, and attack automation. My work spans offensive security and cloud defense, with a strong interest in building AI-powered cybersecurity tools that improve attack efficiency and security visibility. I actively develop advanced exploitation techniques and reliable, AI-assisted red team workflows that reflect real-world threat behavior. Currently, I’m deepening my expertise in advanced Active Directory attacks, AWS cloud security, and applying AI to detection engineering and security analytics. I use AI to automate repetitive security tasks so I can focus on breaking systems ethically and efficiently 😄
+I focus on Blue Teaming across Active Directory and cloud environments, integrating AI to enhance threat detection, incident response, and security monitoring. My work spans defensive security and cloud hardening, with a strong interest in building AI-powered cybersecurity tools that improve visibility, accelerate alert triage, and reduce attacker dwell time. I actively develop detection rules, response playbooks, and AI-assisted SOC workflows that reflect real-world adversary behavior. Currently, I'm deepening my expertise in advanced Active Directory defense, AWS cloud security posture management, and applying AI to detection engineering and security analytics. I use AI to automate repetitive security tasks so I can focus on stopping threats efficiently and protecting systems proactively 🛡️
 
 ---
 
@@ -37,10 +37,12 @@ I focus on red teaming Active Directory and cloud environments, integrating AI t
 
 ---
 
-## 🛡️ Offensive Security & Analysis
+## 🛡️ Defensive Security & Monitoring
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/elastic-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Wireshark](https://img.shields.io/badge/wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
@@ -63,16 +65,18 @@ I focus on red teaming Active Directory and cloud environments, integrating AI t
 
 ## 📚 Standards & Methodologies
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-red?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-blue?style=for-the-badge)
 ![NIST](https://img.shields.io/badge/NIST-800--53-blue?style=for-the-badge)
+![NIST](https://img.shields.io/badge/NIST-CSF-blue?style=for-the-badge)
 
 ---
 
 ## 🧠 Security Operations Matrix
 
 ```text
-Offense (Red Team)    | #############-- | 85%
-Detection (SOC)      | ###########---- | 78%
-Cloud Visibility     | ##########----- | 74%
-Automation (AI)      | #########------ | 68%
-Reporting & Risk     | ########------- | 65%
+Threat Detection (SOC)     | #############-- | 85%
+Incident Response          | ###########---- | 78%
+Cloud Security Posture     | ##########----- | 74%
+AI-Powered Detection       | #########------ | 68%
+Threat Intelligence & Risk | ########------- | 65%
+```
